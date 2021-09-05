@@ -13,7 +13,7 @@
 
 
 ### Wynk Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="hitch hicker Wynk Playing" width="350" />](https://wynk.in/u/LL0I1SwxJ)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="hitch hicker Spotify Playing" width="350" />](https://open.spotify.com/playlist/7cmnovcpmYF80vt8evzuvt?si=nw4jthwRSpC_B5vMYTJmjQ&utm_source=copy-link&dl_branch=1)
 
 ### Connect with me:
 
