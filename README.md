@@ -11,10 +11,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Day by Coder night by Gamer 🎮
 
-
-### Wynk Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="hitch hicker Spotify Playing" width="350" />](https://open.spotify.com/playlist/7cmnovcpmYF80vt8evzuvt?si=nw4jthwRSpC_B5vMYTJmjQ&utm_source=copy-link&dl_branch=1)
-
 ### Connect with me:
 
 [<img align="left" alt="hitchhicker.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -49,19 +45,6 @@
 
 <br />
 <br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Download YouTube Videos Using Python](http://hitchhicker.tech/blog-4.html)
-- [How to send SMS using python](http://hitchhicker.tech/blog-3.html)
-- [5 things that you should know before learn programming](http://hitchhicker.tech/blog-2.html)
-- [this is how i started coding??](http://hitchhicker.tech/blog-1.html)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](http://hitchhicker.tech)
 
 ---
 
