@@ -8,8 +8,10 @@
 - 👨‍🎓 I’m currently pursuing my bachelor degree!
 - 👯 I’m looking to collaborate with other content creators
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022-23 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Day by Coder night by Gamer 🎮
+
+[![@hitchhickerrr's Holopin board](https://holopin.me/hitchhickerrr)](https://holopin.io/@hitchhickerrr)
 
 ### Connect with me:
 
@@ -51,7 +53,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="hitch hicker's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hitchhicker007&show_icons=true&hide_border=true" />
+  <img align="left" alt="hitch hicker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hitchhicker007&show_icons=true&hide_border=true" />
 
 </details>
 
