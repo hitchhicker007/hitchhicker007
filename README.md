@@ -1,11 +1,11 @@
-### Hi there, I'm Parth Panchal - aka [Hitch Hicker][website] 👋
+### Hi there, I'm [Parth Panchal][website]👋
 
-[![Website](https://img.shields.io/website?label=hitchhicker.tech&style=for-the-badge&url=http%3A%2F%2Fhitchhicker.tech)](http://hitchhicker.com)
+[![Website](https://img.shields.io/website?label=parth.panchal.one&style=for-the-badge&url=http%3A%2F%2Fparth.panchal.one)](https://parth.panchal.one)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hitchhickerrr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhitchhickerrr&screen_name=hitchhickerrr)
 
 ## I'm a Student, and Developer!
 
-- 👨‍🎓 I’m currently pursuing my bachelor degree!
+- 👨‍🎓 I’m currently pursuing my Master's degree at Trent University!
 - 👯 I’m looking to collaborate with other content creators
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022-23 Goals: Contribute more to Open Source projects
@@ -57,7 +57,7 @@
 
 </details>
 
-[website]: https://hitchhicker.tech
+[website]: https://parth.panchal.one
 [twitter]: https://twitter.com/hitchhickerrr
 [youtube]: https://www.youtube.com/channel/UCS2GaNuz6rJ2CERdIr5Cnsg
 [instagram]: https://instagram.com/hitchhicker.tech
