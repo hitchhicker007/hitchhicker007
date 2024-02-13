@@ -7,8 +7,6 @@
 
 - 👨‍🎓 I’m currently pursuing my Master's degree at Trent University!
 - 👯 I’m looking to collaborate with other content creators
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022-23 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Day by Coder night by Gamer 🎮
 
 [![@hitchhickerrr's Holopin board](https://holopin.me/hitchhickerrr)](https://holopin.io/@hitchhickerrr)
